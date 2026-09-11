@@ -4,6 +4,18 @@ This repository provides the implementation of **InterFormer** for selective log
 
 > **Mapping Selective Logging with Sentinel-1 Image Time Series and a Novel Transformer-based Model**  
 > *International Journal of Applied Earth Observation and Geoinformation*. Accepted for publication, 2 September 2026.
+> @article{huang2026,
+author = {Xinyao Huang and Raian Vargas Maretto and Leila Maria Garcia Fonseca and Alfred Stein and Claudio Persello},
+title = {Mapping selective logging with Sentinel-1 image time series and a novel transformer-based model},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {153},
+pages = {105567},
+year = {2026},
+issn = {1569-8432},
+doi = {https://doi.org/10.1016/j.jag.2026.105567},
+url = {https://www.sciencedirect.com/science/article/pii/S1569843226004838},
+
+}
 
 ## Installation
 
