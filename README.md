@@ -1,6 +1,6 @@
 # InterFormer
 
-This repository provides the implementation of **InterFormer** for selective logging mapping using Sentinel-1 image time series, associated with the study:
+This repository provides the implementation of **InterFormer** for selective logging mapping using Sentinel-1 image time series
 
 ## Installation
 
